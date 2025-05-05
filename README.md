@@ -100,4 +100,4 @@ Feel free to fork this repo and submit a pull request if you'd like to add more 
 
 📄 License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](LICENSE).

@@ -25,23 +25,19 @@ These projects are ideal for:
 
 📁 Project Structure
 
-Each subfolder represents a standalone project with its own:
+Each subfolder represents a learning path with associated mini projects:
 
     Source code (.c files)
 
     Header files (if applicable)
 
-    Makefile (where relevant)
-
-    README (optional per project)
-
 Example structure:
 
 foundational-c-projects/
-├── project-1-hello-world/
-│   ├── main.c
-│   └── README.md
-├── project-2-calculator/
+├── data_structures/
+│   ├── Trees
+│   └── Heaps
+├── Operating_systems/
 │   ├── calculator.c
 │   └── ...
 ...
@@ -72,19 +68,23 @@ make
 
 📚 Projects Included
 
-Hello World
+Hashing
 
-Simple Calculator
+Heaps
 
-File Reader/Writer
+Graphs
 
-Linked List Implementation
+Queue
 
-Stack and Queue Basics
+Searching
 
-    Sorting Algorithms (Coming soon)
+Sorting
 
-    More projects will be added continuously.
+Stacks
+
+Trees
+
+More projects will be added continuously.
 
 🧠 Learning Goals
 
@@ -97,6 +97,7 @@ Stack and Queue Basics
 🤝 Contributing
 
 Feel free to fork this repo and submit a pull request if you'd like to add more foundational projects or improvements!
+
 📄 License
 
 This repository is licensed under the MIT License.
